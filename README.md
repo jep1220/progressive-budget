@@ -27,6 +27,11 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Screenshots and Demo
 
+![Budget Tracker](https://user-images.githubusercontent.com/38770396/116949429-014e0080-ac37-11eb-8c80-c0a07da0cb46.gif)
+
+
+![image](https://user-images.githubusercontent.com/38770396/116949529-57bb3f00-ac37-11eb-816d-1f0a2a0bf386.png)
+
 
 
 ## Technologies
